@@ -33,6 +33,11 @@ picture {
   padding: 0;
 }
 
+img {
+  display: block;
+  max-inline-size: 100%;
+}
+
 button,
 a {
   color: currentColor;
